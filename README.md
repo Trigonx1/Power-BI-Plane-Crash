@@ -37,7 +37,8 @@ This project is aimed at analysing airplane crashes and how it has trended over 
 + Feedback and Continuous Improvement
   
 ## Data Modelling
-To optimize the performance of the data model, a calendar table was created using the DAX function. The data model follows a star schema with one fact table and three dimension tables. The dimension tables have PRIMARY KEYS that connect to the corresponding FOREIGN KEYS in the fact table, forming a one-to-many relationship between each dimension table and the fact table. The diagram below shows the data model.  
+To optimize the performance of the data model, a DAX table was created using the DAX function. The dimension tables does not connect to the corresponding DAX table.
+The diagram below shows the data model.  
 <img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/model%20plane%20crash.png" width=50% height=50%>
 
 ## Report Design and Visualization
