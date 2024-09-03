@@ -17,14 +17,11 @@ The data used in this project is a modified dataset known as Airplane Crash;
 
 ## Problem Statement
 This project is aimed at analysing airplane crashes and how it has trended over the years, what concerns were addressed to mitigate these crashes and hence, answer the following questions;
-1. What is the Cause of Plane Crash?
-2. What is the ratio of profit of the years under review?
-3. What is the profit ratio on quarterly basis?
-4. Which product category is the most and least profitable?
-5. Where does most sales comes from in terms of region?
-6. Does discount has an effect on Sales?
-7. What is the performance of the Africa market relative to other continent?
-8. Which country is most profitable?
+1. To determine the Cause of Plane Crash?
+2. To identify the associated risk factor of plane crash?
+3. To determine the crash rate over a time duration?
+4. Where does most Fatalities comes from in terms of region?
+
 
 ## Power BI and Analytics Technical Skills:
 + Project Planning and Documentation
