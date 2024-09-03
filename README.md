@@ -1,13 +1,13 @@
-# Power-BI-Airplane Crashes 1910-2020
+# Power-BI-Airplane Crashes 1918-2022
 
 This is a Project i have developed using Microsoft Power BI. 
 so help ME GOD Thank You.
-# Power-BI-Airplane Crashes 1910-2020
+# Power-BI-Historical Plane Crashes 1918-2022
 
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
 
 ##  Introduction
-This is a Power BI project on sales analysis of an hypothetic Supermarket, Haut Super market for 2 consecutive years (2013 and 2014). The project is to clean, analyze and draw insights in order to answer some critical question and help stake holders of Haut make informed decisions.
+This is a Power BI project on Airplane Crash analysis over a time series of Plane Crash leading toFatalities, Airplane Crash for 110 consecutive years (1910 and 2020).This dataset contains all of the plane crashes that happened throughout history. 
 
 
 ## Data Source:
