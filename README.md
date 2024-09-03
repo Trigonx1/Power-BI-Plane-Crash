@@ -64,7 +64,7 @@ The data analysis revealed that;
 6. Airport (less than 10km from airport) were the leading Number of crash by terrain of crash site, with 47.62%(13590) fatalities.
 7. Survival rate was low with the number of fatalities is 72.57%, indicating the low chances of escaping such crashes. 
 8. Royal Airforce (RAF) had the highest number of causalities 2363 making it the highest operator crash 32.87% 
-![ConsolidatedDashboard](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/edit/main/airplanbe%20crashicon.png)
+![ConsolidatedDashboard](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
 
 ## Conclusions and Recommedations
 
