@@ -16,8 +16,8 @@ The data used in this project is a modified dataset known as Airplane Crash;
 * Modified Dataset used in this Project [https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data/data](https://docs.google.com/spreadsheets/u/2/d/1xkWC6Jlk_YZECHbpUtoc8AEiPb9jfcld/edit?usp=drive_web&ouid=114068862415751566917&rtpof=true)
 
 ## Problem Statement
-This project is aimed at improving business performance of Haut supermarket and hence, answer the following questions;
-1. What is the monthly trend of Profit?
+This project is aimed at analysing airplane crashes and how it has trended over the years, what concerns were addressed to mitigate these crashes and hence, answer the following questions;
+1. What is the Cause of Plane Crash?
 2. What is the ratio of profit of the years under review?
 3. What is the profit ratio on quarterly basis?
 4. Which product category is the most and least profitable?
