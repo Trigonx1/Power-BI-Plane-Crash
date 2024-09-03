@@ -34,7 +34,6 @@ This project is aimed at analysing airplane crashes and how it has trended over 
 + Business and Analytics Reporting
 + Performance Optimization
 + Deployment and Power BI Service
-+ Scalability
 + Feedback and Continuous Improvement
   
 ## Data Modelling
