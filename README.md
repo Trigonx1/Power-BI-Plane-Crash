@@ -4,7 +4,7 @@ This is a Project i have developed using Microsoft Power BI.
 so help ME GOD Thank You.
 # Power-BI-Historical Plane Crashes 1918-2022
 
-![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
+![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
 
 ##  Introduction
 This is a Power BI project on Airplane Crash analysis over a time series of Plane Crash leading to Fatalities, Airplane Crash for 104 consecutive years (1918 and 2022).This dataset contains all of the plane crashes that happened throughout history. 
