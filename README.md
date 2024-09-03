@@ -31,7 +31,6 @@ This project is aimed at analysing airplane crashes and how it has trended over 
 + Report Design
 + Data Visualization
 + Data Analysis Expression (DAX)
-+ Page Navigation and Button
 + Business and Analytics Reporting
 + Performance Optimization
 + Deployment and Power BI Service
