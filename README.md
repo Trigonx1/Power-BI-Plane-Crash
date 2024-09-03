@@ -4,7 +4,7 @@ This is a Project i have developed using Microsoft Power BI.
 so help ME GOD Thank You.
 # Haut  Supermarket Sales Report (2013 and 2014)
 
-![Slide1](https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Slide1.PNG)
+![Slide1](onyx 1.png)
 
 ##  Introduction
 This is a Power BI project on sales analysis of an hypothetic Supermarket, Haut Super market for 2 consecutive years (2013 and 2014). The project is to clean, analyze and draw insights in order to answer some critical question and help stake holders of Haut make informed decisions.
