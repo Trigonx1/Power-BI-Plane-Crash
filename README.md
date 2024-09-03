@@ -49,7 +49,7 @@ On each page, the new card visual is used to hold Total Fatalities, PAX Fataliti
 
 | Visuals             |  Visuals |
 :-------------------------:|:-------------------------:
-<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Card1.PNG" width=90% height=90%>|<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/button1.PNG" width=40% height=40%> 
+<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/card%201%20airplane.png" width=90% height=90%>|<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/button1.PNG" width=40% height=40%> 
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/columnbarchart.PNG" width=60% height=60%> |<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Linechart.PNG" width=100% height=100%> 
 
 ## Analytics and Insights
