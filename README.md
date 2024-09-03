@@ -43,7 +43,7 @@ The diagram below shows the data model.
 
 ## Report Design and Visualization
 The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
-<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Slide2.PNG" width=50% height=50%>  
+<img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/Report%20Design%20and%20Visualization%20airplane%20crash.png" width=50% height=50%>  
 5 pages were created; Home, Consolidated, Stationery, Cosmetics and Electronics. 
 _Home_ page is the landing page while _Consolidated_ has the general report without filter while other pages has filtered reports accroding to their page name.
 On each page, the new card visual is used to hold Total Sales, Gross Sales and Profit, Line Chart is used for the series analysis while a column and bar chart are adopted for the Continental and Country analysis respectively. The last image is the button for page navigation. 
