@@ -2,7 +2,7 @@
 
 This is a Project i have developed using Microsoft Power BI. 
 so help ME GOD Thank You.
-# Haut  Supermarket Sales Report (2013 and 2014)
+# Power-BI-Airplane Crashes 1910-2020
 
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/onyx%201.png)
 
