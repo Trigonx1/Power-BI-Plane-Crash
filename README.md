@@ -56,15 +56,14 @@ On each page, the new card visual is used to hold Total Fatalities, PAX Fataliti
 ## Analytics and Insights
 The data analysis revealed that;
 
-1. There is a zig-zag trend of profit across the months, however, October records the highest profit of ($3.74M) which is 15% of the total profit and April records the least profit of ($1.4M), 6% of total profit
-2. There exist an increase in profit from 2013 to 2014 with a ration of 4:6
-3. Q4 record the highest profit of ($8.4M) with Q1 with the lowest ($5M), this shows steady increase in profit across the quarter from 1 to 4
-4. The most and least profitable product category are Stationery and Cosmetics which amounts to 44% and 28% of the total profits respectively 
-5. By region continent is intended, therefore Haut supermarket makes the most sales from America region ($98M) with 47% of the total Gross Sales
-6. This is achieved with the help of the slicer; which shows that product with discount result to 96% of the total Gross sales while only 4% don't have discount, with **High** band of discount amounting to 41% of the Gross Sales
-7. Africa pull 9% of the total Gross sales and 6% of the total Profit from the 202,286 Units solds from South Africa and Nigeria. This is can be visualised when clicking on Africa in the column chart 
-8. France is the most profitable Country among the Haut Stores with 20% ($4.9M) of the total profit
-
+1. ﻿There were high crashes in the early years of 1910-1979, however airplane crashes started trending down in 1980 to 2020, falling by 91.55% (2872) in 40 years.﻿﻿﻿﻿ This suggests that advancements in technology, safety regulations, and training have been effective in reducing the number of crashes.
+2. ﻿﻿Human factors were the leading cause of crashes, with 9,926 incidents, making it 1,483.09% higher than the lowest cause category, "Other causes," which accounted for 627 crashes. This indicates that human error remains a critical issue in aviation safety.
+3. ﻿Across all 5 Country, Total Crashes ranged from 848 to 6804.
+4. The most common factor leading crashes ﻿was based on Human factor which accounted for 34.78% of Total Crashes.﻿ 
+5. By region continent is intended, therefore Airplane Crash had the highest crash experience from United State of America (6804) with 52.66% of the total Fatalities.
+6. Airport (less than 10km from airport) were the leading Number of crash by terrain of crash site, with 47.62%(13590) fatalities.
+7. Survival rate was low with the number of fatalities is 72.57%, indicating the low chances of escaping such crashes. 
+8. Royal Airforce (RAF) had the highest number of causalities 2363 making it the highest operator crash 32.87% 
 ![ConsolidatedDashboard](https://github.com/Abdur-RasheedAde/Haut_Sales_Analysis/blob/main/Page2Consolidated.PNG)
 
 ## Conclusions and Recommedations
