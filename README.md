@@ -7,12 +7,12 @@ so help ME GOD Thank You.
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
 
 ##  Introduction
-This is a Power BI project on Airplane Crash analysis over a time series of Plane Crash leading toFatalities, Airplane Crash for 110 consecutive years (1910 and 2020).This dataset contains all of the plane crashes that happened throughout history. 
+This is a Power BI project on Airplane Crash analysis over a time series of Plane Crash leading to Fatalities, Airplane Crash for 104 consecutive years (1918 and 2022).This dataset contains all of the plane crashes that happened throughout history. 
 
 
 ## Data Source:
-The data used in this project is a modified microsoft dataset known as Financial Samples;  
-* Microsoft Financial Sample Data [DownloadMicrosoftData](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
+The data used in this project is a modified dataset known as Airplane Crash;  
+* Airplane Crash Sample Data [kaggle datasets download -d abeperez/historical-plane-crash-data)
 * Modified Dataset used in this Project [DownloadModifiedDataset](https://docs.google.com/spreadsheets/u/2/d/1xkWC6Jlk_YZECHbpUtoc8AEiPb9jfcld/edit?usp=drive_web&ouid=114068862415751566917&rtpof=true)
 
 ## Problem Statement
