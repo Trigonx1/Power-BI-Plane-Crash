@@ -42,7 +42,7 @@ The diagram below shows the data model.
 <img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/model%20plane%20crash.png" width=50% height=50%>
 
 ## Report Design and Visualization
-The Report Canvas was designed in Power Point and imported to PowerBI as canvas background. Here is a sample of the slide in Power Point   
+The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Slide2.PNG" width=50% height=50%>  
 5 pages were created; Home, Consolidated, Stationery, Cosmetics and Electronics. 
 _Home_ page is the landing page while _Consolidated_ has the general report without filter while other pages has filtered reports accroding to their page name.
