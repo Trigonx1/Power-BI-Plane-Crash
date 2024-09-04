@@ -1,4 +1,4 @@
-# Power-BI-Historical Plane Crashes 1910-2020
+# Power-BI-Historical Plane Crashes 1910-2020 Report
 
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
 
