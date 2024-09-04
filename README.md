@@ -3,7 +3,7 @@
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
 
 ##  Introduction
-This is a Power BI project on Airplane Crash analysis over a time series of Plane Crash leading to Fatalities, Airplane Crash for 110 consecutive years (1910 and 2020).This dataset contains all of the plane crashes that happened throughout history. 
+Aviation has come a long way, transforming from a risky venture in the early 20th century to one of the safest modes of transportation today. However, despite significant advancements in technology and safety, certain challenges remain, particularly those related to human error and regional safety disparities. This project analyzes airplane crashes from 1910 to 2020, aiming to uncover key trends and provide insights that can drive further improvements in aviation safety. With lives at stake, the need for action is urgent, and this analysis serves as both a reflection on past progress and a call to address ongoing vulnerabilities. 
 
 
 ## Data Source:
