@@ -146,10 +146,6 @@ Imagine the tragedy of knowing that lives were lost because we hesitated. Famili
 
 Let this not be a moment of regret but a turning point. The time to act is now, before another preventable tragedy occurs. Let us commit to making the skies safer for everyone, everywhere.
 
-## Deployment to Power BI Service
-This Report is deployed to Power BI service and publish to the web for everyone to have access to it.
-[HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)  
-
 
 
 Thanks for taking time to go through this report! 🤝
