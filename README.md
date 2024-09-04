@@ -55,7 +55,10 @@ On each page, the new card visual is used to hold Total Fatalities, PAX Fataliti
 ## Analytics and Insights
 The data analysis revealed that;
 
-1. ﻿There were high crashes in the early years of 1910-1979, however airplane crashes started trending down in 1980 to 2020, falling by 91.55% (2872) in 40 years.﻿﻿﻿﻿ This suggests that advancements in technology, safety regulations, and training have been effective in reducing the number of crashes.
+1. ﻿Trend in Airplane Crashes (1910-2020):
+
+Airplane crashes were significantly higher in the early years (1910-1979). However, there was a sharp decline in crashes from 1980 to 2020, with incidents decreasing by 91.55% (a reduction of 2,872 crashes over 40 years).
+Insight: This trend suggests that advancements in technology, the implementation of stricter safety regulations, and improved training programs have been effective in reducing the number of airplane crashes over time.
 2. ﻿﻿Human factors were the leading cause of crashes, with 9,926 incidents, making it 1,483.09% higher than the lowest cause category, "Other causes," which accounted for 627 crashes. This indicates that human error remains a critical issue in aviation safety.
 3. ﻿Across all 5 Country, Total Crashes ranged from 848 to 6804.
 4. The most common factor leading crashes ﻿was based on Human factor which accounted for 34.78% of Total Crashes.﻿ 
