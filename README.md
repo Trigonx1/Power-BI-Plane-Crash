@@ -104,7 +104,10 @@ The data analysis revealed that;
 
 **By addressing these recommendations, the aviation industry can continue to improve safety outcomes and reduce the risk of future airplane crashes.**
 ##  <a name='WhatShouldbeDone'></a>What Should be Done
-* First of all, integrate Hotjar into the website.
+* Invest in Advanced Human Factor Training:
+
++ Action: Develop and implement comprehensive training programs focused on reducing human error in aviation. This includes simulation-based training, fatigue management, and stress-response training for pilots and crew members.
++ Outcome: Improved decision-making and situational awareness among aviation personnel, leading to a significant reduction in human error-related crashes..
 * Get ready for an A/B test.
 * Change the visuals of the global landing page and carry out an A/B test with the old version for seven days.
 * Choose the one with the higher conversion rate. Call this Landing Page A. Then get ready for another A/B test.
