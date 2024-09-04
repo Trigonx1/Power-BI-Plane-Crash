@@ -106,24 +106,24 @@ The data analysis revealed that;
 ##  <a name='WhatShouldbeDone'></a>What Should be Done
 1. Invest in Advanced Human Factor Training:
 
-+ Action: Develop and implement comprehensive training programs focused on reducing human error in aviation. This includes simulation-based training, fatigue management, and stress-response training for pilots and crew members.
-+ Outcome: Improved decision-making and situational awareness among aviation personnel, leading to a significant reduction in human error-related crashes..
+  + **Action**: Develop and implement comprehensive training programs focused on reducing human error in aviation. This includes simulation-based training, fatigue management, and stress-response training for pilots and crew members.
+  + **Outcome**: Improved decision-making and situational awareness among aviation personnel, leading to a significant reduction in human error-related crashes..
 2. Implement Regional Safety Initiatives:
 
-+ Action: Launch targeted safety programs in regions with higher crash rates and fatalities, such as enhanced air traffic control systems, stricter regulations, and localized safety audits.
-+ Outcome: A decrease in the regional concentration of crashes, leading to more uniform safety standards worldwide
+  + **Action**: Launch targeted safety programs in regions with higher crash rates and fatalities, such as enhanced air traffic control systems, stricter regulations, and localized safety audits.
+  + **Outcome**: A decrease in the regional concentration of crashes, leading to more uniform safety standards worldwide
 3. Enhance Safety During Critical Flight Phases:
 
-+ Action: Focus on improving safety protocols during takeoff and landing phases. This could involve better runway management, improved aircraft design, and advanced pilot training for these critical moments.
-+ Outcome: Fewer crashes occurring near airports, reducing overall fatalities and increasing passenger confidence in these phases of flight.
+  + **Action**: Focus on improving safety protocols during takeoff and landing phases. This could involve better runway management, improved aircraft design, and advanced pilot training for these critical moments.
+  + **Outcome**: Fewer crashes occurring near airports, reducing overall fatalities and increasing passenger confidence in these phases of flight.
 4. Improve Emergency Response and Survival Rates:
 
-+ Action: Upgrade emergency response systems, including faster crash detection, advanced fire suppression technologies, and more efficient evacuation procedures.
-+ Outcome: Higher survival rates in the event of a crash, mitigating the loss of life and improving overall aviation safety.
+  + **Action**: Upgrade emergency response systems, including faster crash detection, advanced fire suppression technologies, and more efficient evacuation procedures.
+  + **Outcome**: Higher survival rates in the event of a crash, mitigating the loss of life and improving overall aviation safety.
 5. Develop Specialized Safety Measures for Military Aviation:
 
-+ Action: Introduce stricter safety protocols and specialized training for military operators to address the unique risks associated with military aviation.
-+ Outcome: A reduction in military aviation-related casualties and crashes, enhancing the safety of military operations.
+  + **Action**: Introduce stricter safety protocols and specialized training for military operators to address the unique risks associated with military aviation.
+  + **Outcome**: A reduction in military aviation-related casualties and crashes, enhancing the safety of military operations.
 
 ##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed
 Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
