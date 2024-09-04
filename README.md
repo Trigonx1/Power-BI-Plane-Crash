@@ -95,7 +95,8 @@ The data analysis revealed that;
 5. **Military Aviation Risks**: The Royal Air Force's high casualty rate highlights the unique risks associated with military aviation. This may suggest the need for specialized safety measures and training programs for military operators.
    
 ## Recommedations
-1.**Enhanced Human Factor Training**: Given that human error remains the leading cause of crashes, it is essential to invest in advanced training programs focused on reducing human error. This could include simulation-based training, fatigue management programs, and decision-making under stress.
+1. **Enhanced Human Factor Training**: Given that human error remains the leading cause of crashes, it is essential to invest in advanced training programs focused on reducing human error. This could include simulation-based training, fatigue management programs, and decision-making under stress.
+   
 2. **Regional Safety Initiatives**: For regions with higher crash rates and fatalities, such as the United States, targeted safety initiatives should be implemented. These could include region-specific regulations, improved air traffic control systems, and localized safety audits.
 3.**Focus on Critical Flight Phases**: To address the high incidence of crashes near airports, efforts should be made to enhance safety during takeoff and landing. This could involve the development of more robust airport safety protocols, improved aircraft design for these phases, and enhanced pilot training.
 4. **Improved Emergency Response**: To increase the survival rate in crashes, it is recommended to improve emergency response protocols. This could involve better crash detection and response systems, advanced fire suppression technologies, and more effective evacuation procedures.
