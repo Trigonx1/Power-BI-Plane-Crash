@@ -1,7 +1,3 @@
-# Power-BI-Airplane Crashes 1910-2020
-
-This is a Project i have developed using Microsoft Power BI. 
-so help ME GOD Thank You.
 # Power-BI-Historical Plane Crashes 1910-2020
 
 ![Slide1](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/173084446.0.1415060900.webp)
@@ -144,17 +140,17 @@ The data analysis revealed that;
 ## In summary, timely implementation of these actions is crucial to continuing the positive trend in aviation safety. Delays could result in preventable accidents, increased fatalities, and persistent safety disparities across regions and types of aviation operations.  
 
 
-The global landing page leads to other subsequent landing pages. The high bounce rate of the global landing page is an indication that many users are not making it to these subsequent pages. 
+The safety of countless lives hangs in the balance. The data is clear: while we've made tremendous strides in reducing airplane crashes, the persistence of human error and regional disparities reminds us that our work is far from complete. Every day that we delay action is another day we risk lives that could be saved.
 
-It's best to effect the recommendations to improve the global landing page while there's still time. At least, for the sake of Roland's health. Just like they say, a stitch in time saves nine.
+Imagine the tragedy of knowing that lives were lost because we hesitated. Families torn apart, dreams shattered—all because the necessary steps were not taken in time. We owe it to every passenger, every crew member, and every loved one waiting at home to act decisively and swiftly.
 
-Click this [LINK](https://amandinancy16.medium.com/the-one-my-thought-process-9787c5d45054) to see my thought process in arriving at these insights
+Let this not be a moment of regret but a turning point. The time to act is now, before another preventable tragedy occurs. Let us commit to making the skies safer for everyone, everywhere.
 
 ## Deployment to Power BI Service
-This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
+This Report is deployed to Power BI service and publish to the web for everyone to have access to it.
 [HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)  
 
-To Open a developer Microsoft account, kindly check this article [OpenMicrosoftdeveloperaccount](https://techcommunity.microsoft.com/t5/educator-developer-blog/register-for-microsoft-365-and-power-apps-developer-account-with/ba-p/3490280)
+
 
 Thanks for taking time to go through this report! 🤝
 
