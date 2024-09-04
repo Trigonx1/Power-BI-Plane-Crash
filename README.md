@@ -32,15 +32,20 @@ This project aims to analyze airplane crashes over time, examining trends and id
 + Feedback and Continuous Improvement
   
 ## Data Modelling
-To optimize the performance of the data model, a DAX table was created using the DAX function. The dimension tables does not connect to the corresponding DAX table.
+
+To optimize the performance of the data model, a DAX table was created using DAX functions. However, the dimension tables are not connected to the corresponding DAX table. The diagram below illustrates the data model.
 The diagram below shows the data model.  
 <img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/model%20plane%20crash.png" width=50% height=50%>
 
 ## Report Design and Visualization
 The Report Canvas was designed in PowerBI as canvas background. Here is a sample of the slide in PowerBI   
 <img src="https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/Report%20Design%20and%20Visualization%20airplane%20crash.png" width=50% height=50%>  
-14 pages were created. 
-On each page, the new card visual is used to hold Total Fatalities, PAX Fatalities, Crew Fatalities and Other Fatalities, Line Chart is used for the series analysis,the Donught Chart is used for survival comparison while a column and bar chart are adopted for the Cause, Crash site, Operator, and Country analysis respectively. 
+Four pages were created for the analysis. Each page features the following visualizations:
+
++ Card Visuals: Displaying key metrics such as Total Fatalities, PAX Fatalities, Crew Fatalities, and Other Fatalities.
++ Line Chart: Used for series analysis to track trends over time.
++ Donut Chart: Employed for survival comparison to visualize survival rates.
++ Column and Bar Charts: Utilized for analyzing data by Cause, Crash Site, Operator, and Country.
 
 | Visuals             |  Visuals |
 :-------------------------:|:-------------------------:
