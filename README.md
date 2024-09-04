@@ -126,8 +126,21 @@ The data analysis revealed that;
   + **Outcome**: A reduction in military aviation-related casualties and crashes, enhancing the safety of military operations.
 
 ##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed
-Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
+1. Increased Human Error-Related Crashes:
 
++ If Delayed: Without immediate investment in advanced training, human error will continue to be a leading cause of crashes. This could result in preventable accidents, leading to loss of life and undermining public trust in aviation safety.
+2.Persistent Regional Disparities in Crash Rates:
+
++ If Delayed: Failure to implement regional safety initiatives could perpetuate higher crash rates in certain areas, particularly in regions like the United States. This could lead to continued disparities in aviation safety, with some regions experiencing disproportionately higher risks.
+3. Continued Risk During Critical Flight Phases:
+
++If Delayed: Without a focus on improving safety during takeoff and landing, the most hazardous phases of flight will remain vulnerable. This could result in continued high numbers of crashes near airports, with associated fatalities.
+4. Low Survival Rates in Crashes:
+
++ If Delayed: Delaying improvements in emergency response and survival protocols could result in continued high fatality rates. This would mean that passengers and crew have a lower chance of surviving a crash, leading to greater loss of life.
+5. Increased Military Aviation Casualties:
+
++ If Delayed: Without specialized safety measures for military aviation, the high casualty rate associated with military operations will persist. This could lead to unnecessary loss of life and weaken military operational readiness.
 ![](Charts/Months%20by%20Conversion%20Rate.png)
 
 The global landing page leads to other subsequent landing pages. The high bounce rate of the global landing page is an indication that many users are not making it to these subsequent pages. 
