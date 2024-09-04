@@ -9,7 +9,7 @@ Aviation has come a long way, transforming from a risky venture in the early 20t
 ## Data Source:
 The data used in this project is a modified dataset known as Airplane Crash;  
 * Airplane Crash Sample Data [kaggle datasets download -d abeperez/historical-plane-crash-data)
-* Modified Dataset used in this Project [https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data](https://docs.google.com/spreadsheets/u/2/d/1xkWC6Jlk_YZECHbpUtoc8AEiPb9jfcld/edit?usp=drive_web&ouid=114068862415751566917&rtpof=true)
+* Modified Dataset used in this Project [https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data](https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data)
 
 ## Problem Statement
 This project aims to analyze airplane crashes over time, examining trends and identifying key factors that have influenced the frequency and severity of these incidents. By investigating historical data, the project seeks to answer the following key questions:
