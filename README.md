@@ -55,16 +55,34 @@ On each page, the new card visual is used to hold Total Fatalities, PAX Fataliti
 ## Analytics and Insights
 The data analysis revealed that;
 
-1. ﻿Trend in Airplane Crashes (1910-2020):
+1. **﻿Trend in Airplane Crashes (1910-2020):**
 
-Airplane crashes were significantly higher in the early years (1910-1979). However, there was a sharp decline in crashes from 1980 to 2020, with incidents decreasing by 91.55% (a reduction of 2,872 crashes over 40 years).
++ Airplane crashes were significantly higher in the early years (1910-1979). However, there was a sharp decline in crashes from 1980 to 2020, with incidents decreasing by 91.55% (a reduction of 2,872 crashes over 40 years).
 + **Insight**: This trend suggests that advancements in technology, the implementation of stricter safety regulations, and improved training programs have been effective in reducing the number of airplane crashes over time.
 
-2. ﻿﻿Human factors were the leading cause of crashes, with 9,926 incidents, making it 1,483.09% higher than the lowest cause category, "Other causes," which accounted for 627 crashes. This indicates that human error remains a critical issue in aviation safety.
-3. ﻿Across all 5 Country, Total Crashes ranged from 848 to 6804.
-4. The most common factor leading crashes ﻿was based on Human factor which accounted for 34.78% of Total Crashes.﻿ 
-5. By region continent is intended, therefore Airplane Crash had the highest crash experience from United State of America (6804) with 52.66% of the total Fatalities.
-6. Airport (less than 10km from airport) were the leading Number of crash by terrain of crash site, with 47.62%(13590) fatalities.
+2. **Primary Causes of Crashes:**
+
++ Human factors were identified as the leading cause of airplane crashes, with 9,926 incidents. This is 1,483.09% higher than the category with the fewest incidents, "Other causes," which accounted for 627 crashes.
++ **Insight**: Despite technological advances, human error remains a significant concern in aviation safety.
+  
+3. **Geographic Distribution of Crashes:**
+
++ The total number of crashes varied across five countries, ranging from 848 to 6,804.
++ The United States experienced the highest number of crashes, with 6,804 incidents, representing 52.66% of the total fatalities.
++ **Insight**: The concentration of crashes in specific regions highlights the need for localized safety interventions.
+  
+4. **Crash Sites and Fatalities:**
+
++ Most crashes occurred near airports (within 10 km), with these incidents resulting in 13,590 fatalities, accounting for 47.62% of the total fatalities.
++ **Insight:** The proximity of crashes to airports suggests that critical phases of flight (takeoff and landing) are particularly vulnerable and require enhanced safety measures.
+5. **Survival Rates:**
+
++ The survival rate in airplane crashes was low, with a fatality rate of 72.57%.
++ **Insight**: The high fatality rate underscores the importance of improving safety measures and emergency response protocols to increase the chances of survival.
+6. **Operator with the Highest Casualties**:
+
++ The Royal Air Force (RAF) had the highest number of casualties, with 2,363 fatalities, accounting for 32.87% of crashes associated with a specific operator.
++ **Insight**: This statistic may reflect the particular risks associated with military aviation operations.
 7. Survival rate was low with the number of fatalities is 72.57%, indicating the low chances of escaping such crashes. 
 8. Royal Airforce (RAF) had the highest number of causalities 2363 making it the highest operator crash 32.87% 
 ![ConsolidatedDashboard](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
