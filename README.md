@@ -152,6 +152,10 @@ Imagine the tragedy of knowing that lives were lost because we hesitated. Famili
 
 Let this not be a moment of regret but a turning point. The time to act is now, before another preventable tragedy occurs. Let us commit to making the skies safer for everyone, everywhere.
 
+## Deployment to Power BI Service
+This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
+[Plane Crashes 1910-2020](https://app.powerbi.com/groups/me/reports/8c0d8422-e3ea-41d5-ac08-8df5519ebd8e/42703b5c706ce714ea00?experience=power-bi)  
+
 
 
 Thanks for taking time to go through this report! 🤝
