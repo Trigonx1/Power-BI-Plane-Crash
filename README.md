@@ -26,7 +26,7 @@ This project aims to analyze airplane crashes over time, examining trends and id
 + Report Design
 + Data Visualization
 + Data Analysis Expression (DAX)
-+ Business and Analytics Reporting
++ Risk and Analytics Reporting
 + Performance Optimization
 + Deployment and Power BI Service
 + Feedback and Continuous Improvement
