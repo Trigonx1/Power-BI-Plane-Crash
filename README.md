@@ -101,7 +101,28 @@ The data analysis revealed that;
 3.**Focus on Critical Flight Phases**: To address the high incidence of crashes near airports, efforts should be made to enhance safety during takeoff and landing. This could involve the development of more robust airport safety protocols, improved aircraft design for these phases, and enhanced pilot training.
 4. **Improved Emergency Response**: To increase the survival rate in crashes, it is recommended to improve emergency response protocols. This could involve better crash detection and response systems, advanced fire suppression technologies, and more effective evacuation procedures.
 5. **Specialized Safety Measures for Military Aviation**: Given the higher risk associated with military aviation, specialized safety measures should be developed for military operators. This might include stricter maintenance protocols, enhanced training for combat scenarios, and improved safety equipment tailored to military aircraft.
-##**By addressing these recommendations, the aviation industry can continue to improve safety outcomes and reduce the risk of future airplane crashes.**
+
+**By addressing these recommendations, the aviation industry can continue to improve safety outcomes and reduce the risk of future airplane crashes.**
+##  <a name='WhatShouldbeDone'></a>What Should be Done
+* First of all, integrate Hotjar into the website.
+* Get ready for an A/B test.
+* Change the visuals of the global landing page and carry out an A/B test with the old version for seven days.
+* Choose the one with the higher conversion rate. Call this Landing Page A. Then get ready for another A/B test.
+* Make the navigation of Landing Page A more intuitive and carry out an A/B test with the first version of Landing Page A for seven days.
+* Choose the one with the higher conversion rate. Call this Landing Page B. Then get ready for another A/B test.
+* Make the copy of Landing Page B more persuasive and the CTA clearer. Then carryout an A/B test with the first version of Landing Page B for seven days.
+
+##  <a name='WhatWillHappenifActionisDelayed'></a>What Will Happen if Action is Delayed
+Delaying the improvements of the global landing page will make the company lose more money. This is because the conversion rate will most likely reduce from 0.22% in October to 0.19% and 0.18% in November and December respectively. The reason to this speculated reduction is not far fetched. 
+
+![](Charts/Months%20by%20Conversion%20Rate.png)
+
+The global landing page leads to other subsequent landing pages. The high bounce rate of the global landing page is an indication that many users are not making it to these subsequent pages. 
+
+It's best to effect the recommendations to improve the global landing page while there's still time. At least, for the sake of Roland's health. Just like they say, a stitch in time saves nine.
+
+Click this [LINK](https://amandinancy16.medium.com/the-one-my-thought-process-9787c5d45054) to see my thought process in arriving at these insights
+
 ## Deployment to Power BI Service
 This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
 [HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)  
