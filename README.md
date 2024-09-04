@@ -143,7 +143,7 @@ The data analysis revealed that;
 
 + If Delayed: Without specialized safety measures for military aviation, the high casualty rate associated with military operations will persist. This could lead to unnecessary loss of life and weaken military operational readiness.
 
-In summary, timely implementation of these actions is crucial to continuing the positive trend in aviation safety. Delays could result in preventable accidents, increased fatalities, and persistent safety disparities across regions and types of aviation operations.  
+## In summary, timely implementation of these actions is crucial to continuing the positive trend in aviation safety. Delays could result in preventable accidents, increased fatalities, and persistent safety disparities across regions and types of aviation operations.  
 
 
 The safety of countless lives hangs in the balance. The data is clear: while we've made tremendous strides in reducing airplane crashes, the persistence of human error and regional disparities reminds us that our work is far from complete. Every day that we delay action is another day we risk lives that could be saved.
