@@ -16,12 +16,11 @@ The data used in this project is a modified dataset known as Airplane Crash;
 * Modified Dataset used in this Project [https://www.kaggle.com/datasets/abeperez/historical-plane-crash-data/data](https://docs.google.com/spreadsheets/u/2/d/1xkWC6Jlk_YZECHbpUtoc8AEiPb9jfcld/edit?usp=drive_web&ouid=114068862415751566917&rtpof=true)
 
 ## Problem Statement
-This project is aimed at analysing airplane crashes and how it has trended over the years, what concerns were addressed to mitigate these crashes and hence, answer the following questions;
-1. To determine the Cause of Plane Crash?
-2. To identify the associated risk factor of plane crash?
-3. To determine the crash rate over a time duration?
-4. Where does most Fatalities comes from in terms of region?
-
+This project aims to analyze airplane crashes over time, examining trends and identifying key factors that have influenced the frequency and severity of these incidents. By investigating historical data, the project seeks to answer the following key questions:
+1. What are the primary causes of airplane crashes?
+2. What risk factors are most strongly associated with airplane crashes?
+3. How has the crash rate changed over specific time periods?
+4. Which regions have experienced the highest number of fatalities due to airplane crashes?
 
 ## Power BI and Analytics Technical Skills:
 + Project Planning and Documentation
