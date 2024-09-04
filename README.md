@@ -82,9 +82,8 @@ The data analysis revealed that;
 6. **Operator with the Highest Casualties**:
 
 + The Royal Air Force (RAF) had the highest number of casualties, with 2,363 fatalities, accounting for 32.87% of crashes associated with a specific operator.
-+ **Insight**: This statistic may reflect the particular risks associated with military aviation operations.
-7. Survival rate was low with the number of fatalities is 72.57%, indicating the low chances of escaping such crashes. 
-8. Royal Airforce (RAF) had the highest number of causalities 2363 making it the highest operator crash 32.87% 
+  + **Insight**: This statistic may reflect the particular risks associated with military aviation operations.
+
 ![ConsolidatedDashboard](https://github.com/Trigonx1/Power-BI-Retail-Fashion-Project/blob/main/airplanbe%20crashicon.png)
 
 ## Conclusions and Recommedations
